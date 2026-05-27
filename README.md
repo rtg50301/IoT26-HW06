@@ -31,6 +31,11 @@ PIR sensor detects motion
 → GPIO17 turns OFF
 ```
 
+### 1-1. Screenshot & Video
+![RPI Image](./image.png)
+
+[Youtube Link](https://youtu.be/_YoLWsF5iic)
+
 ## 2. Hardware Used
 
 ```text
